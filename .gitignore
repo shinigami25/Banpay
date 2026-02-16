@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# Vite
+dist/
+
+# Docker
+pgdata/
+
+# IDE
+.idea/
+.vscode/
+*.swp
